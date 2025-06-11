@@ -1,6 +1,6 @@
 # UFC Fight Prediction Models
 
-This repository contains two machine learning projects for predicting the outcomes of UFC fights. The models are trained on the "Ultimate UFC Dataset" from Kaggle, using a combination of base statistics, advanced engineered features, and (in the second model) betting market odds.
+This repository contains two machine learning projects for predicting the outcomes of UFC fights. The models are trained on the ["Ultimate UFC Dataset"](https://www.kaggle.com/datasets/mdabbert/ultimate-ufc-dataset/data) from Kaggle, using a combination of base statistics, advanced engineered features, and (in the second model) betting market odds.
 
 Two distinct models are developed:
 1.  **`ufcFightPredictor.ipynb`**: A model that predicts fight outcomes based purely on fighter and fight statistics, without any knowledge of betting odds.
